@@ -5,4 +5,4 @@ opencv-python==4.3.0.38
 torch
 torchvision
 tqdm==4.45.0
-numba==1.17.1
+numba
